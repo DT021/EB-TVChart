@@ -1,0 +1,1 @@
+EquityBoss charting application
