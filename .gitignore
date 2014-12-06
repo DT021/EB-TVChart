@@ -1,7 +1,7 @@
 scripts/credentials.sh
 scripts/dev_credentials.sh
-*.pyc
 *.log
+*.pyc
 logs/*.log*
 static/scripts/untitled
 data
